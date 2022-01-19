@@ -1,5 +1,0 @@
-Flask==2.0.2
-request==2.25.1
-json
-Response
-jsonify
